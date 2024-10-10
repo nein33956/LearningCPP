@@ -1,0 +1,1 @@
+{"name":"Local: exe25","url":"d:\\Nein_learn\\C++\\array\\array1\\exe\\exe25.cpp","tests":[{"id":1700810752574,"input":"1\n5 \n3 2 5 1 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Nein_learn\\C++\\array\\array1\\exe\\exe25.cpp","group":"local","local":true}
